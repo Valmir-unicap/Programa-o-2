@@ -1,6 +1,6 @@
 # Programação-2
 
-Conteúdo Programático da Disciplina
+# Conteúdo Programático da Disciplina
  
 Estruturas de dados básicas:
 -Estruturas de dados homogêneas unidimensionais e multidimensionais.
@@ -16,4 +16,10 @@ Algoritmos elementares de ordenação em memória primária:
 -Seleção direta.
 -Método da bolha.
 
-Introdução a programção orientada a objetos:
+Programção orientada a objetos:
+
+# Objetivos
+
+-Desenvolver um raciocínio lógico aplicado à solução de problemas a nível computacional utilizando as estruturas de dados básicas.
+-Estudar e aplicar, na solução de problemas, os algoritmos elementares de pesquisa em memória primária.
+-Estudar e aplicar, na solução de problemas, os algoritmos elementares de ordenação em memória primária.
