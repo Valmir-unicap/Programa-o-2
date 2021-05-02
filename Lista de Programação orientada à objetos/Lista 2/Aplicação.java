@@ -1,6 +1,6 @@
 package p2lista2poo;
 /*
- * @author valmir
+  @author valmir
  */
 import java.util.Scanner;
 public class P2Lista2POO {
